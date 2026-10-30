@@ -26,8 +26,6 @@
 
 ## 🐍 GitHub Contribution Snake
 
-## 🐍 GitHub Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/buvanesh080606/buvanesh080606/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
