@@ -24,4 +24,12 @@
 ---
 [![](https://komarev.com/ghpvc/?username=buvanesh080606&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/buvanesh080606/buvanesh080606/output/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/buvanesh080606/buvanesh080606/output/ocean.gif" alt="Ocean Snake Animation" />
+</p>
