@@ -18,8 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://komarev.com/ghpvc/?username=buvanesh080606&icon=0&color=7)](https://visitcount.itsvg.in)
 
 ## 🐍 GitHub Contribution Snake
 
